@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyansh Dogra</h1>
+<h1 align="center">Hi 👋, I'm Priyansh</h1>
 <h3 align="center">JavaScript, HTML and CSS enjoyer from Noida</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif">
 
